@@ -1,0 +1,27 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "friend finder",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=8.0.0 <11.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abagwell90/friend-finder.git"
+  },
+  "author": "Andrew J Bagwell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abagwell90/friend-finder/issues"
+  },
+  "homepage": "https://github.com/abagwell90/friend-finder#readme"
+}
